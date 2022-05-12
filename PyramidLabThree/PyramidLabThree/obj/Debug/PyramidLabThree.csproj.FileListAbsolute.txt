@@ -1,0 +1,15 @@
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\PyramidLabThree.exe.config
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\PyramidLabThree.exe
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\PyramidLabThree.pdb
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\OpenTK.dll
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\OpenTK.pdb
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\bin\Debug\OpenTK.xml
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.csproj.AssemblyReference.cache
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.Form1.resources
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.Properties.Resources.resources
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.csproj.GenerateResource.cache
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.csproj.CoreCompileInputs.cache
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.csproj.CopyComplete
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.exe
+C:\Users\suwil\Desktop\THIRD YEAR\2nd semester\Computer Graphics\Tasks\Lab Three\PyramidLabThree\PyramidLabThree\obj\Debug\PyramidLabThree.pdb
