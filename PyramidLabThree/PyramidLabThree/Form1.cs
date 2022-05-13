@@ -12,11 +12,11 @@ namespace PyramidLabThree
 {
     public partial class Form1 : Form
     {
-        private int Height { get; set; }
-        private int Width { get; set; }
-        private int Depth { get; set; }
+        private int _Height { get; set; }
+        private int _Width { get; set; }
+        private int _Depth { get; set; }
         private int Sides { get; set; }
-
+        private string transparent { get; set; }
         private string lightSource { get; set; }    
 
         Pyramid pyramid;
@@ -37,11 +37,12 @@ namespace PyramidLabThree
         {
             try
             {
-                Height = int.Parse(textBox1.Text);
-                Width = int.Parse(textBox3.Text);
-                Depth = int.Parse(textBox2.Text);
+                _Height = int.Parse(textBox1.Text);
+                _Width = int.Parse(textBox3.Text);
+                _Depth = int.Parse(textBox2.Text);
                 Sides = int.Parse(textBox4.Text);
                 lightSource = comboBox1.Text;
+                transparent = comboBox2.Text;
 
             }
             catch (Exception ex)
@@ -58,9 +59,11 @@ namespace PyramidLabThree
 
         private void render()
         {
-            pyramid = new Pyramid(Height, Width, "Pyramid");
+            pyramid = new Pyramid(_Height, _Width, "Pyramid");
             pyramid.setLightSource(lightSource);
             pyramid.setSides(Sides);
+            pyramid.setViewDepth(_Depth);
+            pyramid.setTransparency(transparent);
             pyramid.Run(1.0 / 60.0);
            
         }
