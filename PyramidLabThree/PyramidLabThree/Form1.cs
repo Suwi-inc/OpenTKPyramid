@@ -21,7 +21,7 @@ namespace PyramidLabThree
 
         Game game;
 
-        //added to git
+        //added to git v2
         public Form1()
         {
             InitializeComponent();
