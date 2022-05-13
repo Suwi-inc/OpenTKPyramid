@@ -19,7 +19,7 @@ namespace PyramidLabThree
 
         private string lightSource { get; set; }    
 
-        Game game;
+        Pyramid pyramid;
 
         //added to git v2
         public Form1()
@@ -58,33 +58,33 @@ namespace PyramidLabThree
 
         private void render()
         {
-            game = new Game(Height, Width, "Pyramid");
-            game.setLightSource(lightSource);
-            game.setSides(Sides);
-            game.Run(1.0 / 60.0);
+            pyramid = new Pyramid(Height, Width, "Pyramid");
+            pyramid.setLightSource(lightSource);
+            pyramid.setSides(Sides);
+            pyramid.Run(1.0 / 60.0);
            
         }
 
         private void Reset_Click(object sender, EventArgs e)
         {
-            game.Exit(); 
+            pyramid.Exit(); 
         }
 
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-            game.rotateXaxis();
+            pyramid.rotateXaxis();
 
         }
 
         private void hScrollBar2_Scroll(object sender, ScrollEventArgs e)
         {
-            game.rotateYaxis();
+            pyramid.rotateYaxis();
 
         }
 
         private void hScrollBar3_Scroll(object sender, ScrollEventArgs e)
         {
-            game.rotateZaxis();
+            pyramid.rotateZaxis();
 
         }
 
